@@ -1,0 +1,2 @@
+# Block direct browser access (PHP still includes these files normally)
+Require all denied
